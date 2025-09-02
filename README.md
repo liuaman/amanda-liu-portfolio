@@ -8,23 +8,16 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+Working with Tableau: Visualizing Government Debt
+Final Project
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+This is Amanda! I am a graduate student in the MIIPS program at CMU, and also a designer with 3 years of experience in tech and digital finance. My pronouns are she/her.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Learn how to use data to support my design decisions.
+2. Create meaningful, clear, and professional charts/graphics to tell a story.
+3. Become more comfortable with data overall!
 
 # Portfolio
 
