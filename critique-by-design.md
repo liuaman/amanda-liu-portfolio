@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Title
-Text here...
+Vacancy Rates by Metro
 
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
 
@@ -15,6 +15,8 @@ _Include link to the original data visualization (or screenshot - make sure to c
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 ## Step three: Sketch a solution
+
+![IMG_5688](https://github.com/user-attachments/assets/db746ea5-ef7d-44c4-9fef-85086d5c258d)
 
 ## Step four: Test the solution
 
@@ -55,5 +57,5 @@ _Include and describe your final solution here. It's also a good idea to summari
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I asked ChatGPT a few questions on helping me build what I sketch in Tableau. For example, the Edit Axis, 
 
