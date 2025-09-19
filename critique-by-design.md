@@ -41,23 +41,33 @@ I learned that the title plays a key role in immediately conveying the story, so
 
 ## Step five: build the solution
 
-# Step five: build the solution
-
-<div class='tableauPlaceholder' id='viz1758244194122' style='position: relative'>
+<div class="tableauPlaceholder" id="vacancyViz" style="position:relative; width:100%; max-width:1100px; margin:0 auto;">
   <noscript>
-    <a href='#'>
-      <img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Va&#47;VacancyRatesbyMetrointheUnitedStates&#47;Dashboard1&#47;1_rss.png' style='border: none' />
+    <a href="#">
+      <img alt="Vacancy Rates by Metro"
+           src="https://public.tableau.com/static/images/Va/VacancyRatesbyMetrointheUnitedStates/Dashboard1/1_rss.png"
+           style="border:none;" />
     </a>
   </noscript>
-  <object class='tableauViz' style='display:none;'>
-    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-    <param name='embed_code_version' value='3' />
-    <param name='name' value='VacancyRatesbyMetrointheUnitedStates&#47;Dashboard1' />
-    <param name='tabs' value='no' />
-    <param name='toolbar' value='yes' />
+  <object class="tableauViz" style="display:none;">
+    <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+    <param name="embed_code_version" value="3" />
+    <param name="name" value="VacancyRatesbyMetrointheUnitedStates/Dashboard1" />
+    <param name="tabs" value="no" />
+    <param name="toolbar" value="yes" />
   </object>
 </div>
-<script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
+
+<script type="text/javascript">
+  var divElement = document.getElementById('vacancyViz');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width = '100%';
+  vizElement.style.height = '1800px';
+
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
 When finalizing the data visualization, I chose red for rent to convey a sense of unaffordability, and used green and blue as calmer tones for seasonal/recreational and personal reasons. I updated the title to “Vacancy Rates by Metro in the United States” with the subtitle “Colored by the Most Common Reason for Vacancy.” I also added an average reference line to provide viewers with a baseline for comparison.
 
