@@ -62,12 +62,13 @@ I learned that the title plays a key role in immediately conveying the story, so
   var divElement = document.getElementById('vacancyViz');
   var vizElement = divElement.getElementsByTagName('object')[0];
   vizElement.style.width = '100%';
-  vizElement.style.height = '1800px';
+  vizElement.style.height = (divElement.offsetWidth * 1.3) + 'px';
 
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
 
 When finalizing the data visualization, I chose red for rent to convey a sense of unaffordability, and used green and blue as calmer tones for seasonal/recreational and personal reasons. I updated the title to “Vacancy Rates by Metro in the United States” with the subtitle “Colored by the Most Common Reason for Vacancy.” I also added an average reference line to provide viewers with a baseline for comparison.
 
