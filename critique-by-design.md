@@ -1,61 +1,50 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Vacancy Rates by Metro
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# Vacancy Rates by Metro 
 
 ## Step one: the visualization
-
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+https://www.lendingtree.com/home/mortgage/vacant-homes-metros-study/
+<img width="1200" height="960" alt="image" src="https://github.com/user-attachments/assets/be571288-1e65-4ca4-bf0b-cdb4a1436b79" />
+<img width="1111" height="889" alt="image" src="https://github.com/user-attachments/assets/e7c64875-20d5-461c-a976-ba2046dbedf5" />
+I chose this data visualization because I found the topic interesting. An area’s vacancy rate can be an important indicator of the overall health and character of its housing market. While the article was well written and provided valuable insights, I felt the chart didn’t achieve the same impact. I believe there is a room for improvement in how the visualization could better support the article. That’s why I selected it, and the article also provided a complete dataset for me to use in the redesign.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+What work well:
+1. It’s clear to see where the cities are on the map and what their rank is.
+2. I like the color choose - green is good for the "Lowest Vacancy Rate Chart". It gives a calm impression. 
+
+What didn’t work well:
+1. The colors are all the same for the Top 10, and on the map, the whole state is colored, but the data is only for the metro area.
+2. The charts only show ranking numbers, not the real vacancy rate, so we don’t know how big the difference is.
+3. Most of the U.S. map is just gray, which doesn’t give information.
+
+The primary audience is people who care about the housing market, such as home buyers, renters, investors, and mortgage companies. I don’t think the visualization is effective enough. The charts show which metros have the highest or lowest vacancy rates, but they don’t include the most common reason for vacancy.
 
 ## Step three: Sketch a solution
 
 ![IMG_5688](https://github.com/user-attachments/assets/db746ea5-ef7d-44c4-9fef-85086d5c258d)
+I focused on showing the numbers and rankings by using a bar chart instead of a map. I believe this can reduce the distraction caused by the large areas of gray in the map, since spatial location is not particularly important in this context. I also included the most common reason for vacancy in each metro, as I think this information is valuable for the audience, such as renters and investors.
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+1. Student, mid 20’s
+Suggested a better title. She pointed out that the title did not mention the most common reason, so it required extra time to read the chart or needed more elaboration.
 
-Questions to ask (modify these for your own interviews): 
+2. Student, MIIPS
+Suggested using higher-contrast colors.
 
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+3. Student, Male
+He noted that the color use in the bars could be confusing. At first, he misinterpreted them as showing that 100% of each bar corresponded to the same vacancy reason. He suggested splitting the visualization into two charts—one for “Ranking and Vacancy Rate,” and another for “Most Common Reason for Vacancy.”
 
 Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+I learned that the title plays a key role in immediately conveying the story, so it’s important to make it clear. I also reflected on the trade-off between keeping a single chart information-rich versus splitting it into two charts. Some people may feel overwhelmed when too much information is presented in one chart. I think the choice depends on the kind of story you want to tell.
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+<div class='tableauPlaceholder' id='viz1758244194122' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Va&#47;VacancyRatesbyMetrointheUnitedStates&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='VacancyRatesbyMetrointheUnitedStates&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Va&#47;VacancyRatesbyMetrointheUnitedStates&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1758244194122');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
-## References
-_List any references you used here._
+When finalizing the data visualization, I chose red for rent to convey a sense of unaffordability, and used green and blue as calmer tones for seasonal/recreational and personal reasons. I updated the title to “Vacancy Rates by Metro in the United States” with the subtitle “Colored by the Most Common Reason for Vacancy.” I also added an average reference line to provide viewers with a baseline for comparison.
 
 ## AI acknowledgements
-I asked ChatGPT a few questions on helping me build what I sketch in Tableau. For example, the Edit Axis, 
+I asked ChatGPT a few questions about Tableau functions to help me build what I had sketched. After finishing the visualization, I asked it to critique my work again. I also used it to improve my grammar and wording for this assignment.
 
