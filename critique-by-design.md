@@ -3,9 +3,15 @@
 # Vacancy Rates by Metro 
 
 ## Step one: the visualization
+
+5.6 Million Homes Are Vacant in Nation’s Largest Metros — Here’s Where Vacancy Rates Are Highest, Lowest
 https://www.lendingtree.com/home/mortgage/vacant-homes-metros-study/
-<img width="1200" height="960" alt="image" src="https://github.com/user-attachments/assets/be571288-1e65-4ca4-bf0b-cdb4a1436b79" />
-<img width="1111" height="889" alt="image" src="https://github.com/user-attachments/assets/e7c64875-20d5-461c-a976-ba2046dbedf5" />
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/be571288-1e65-4ca4-bf0b-cdb4a1436b79" alt="image" width="49%" />
+  <img src="https://github.com/user-attachments/assets/e7c64875-20d5-461c-a976-ba2046dbedf5" alt="image" width="49%" />
+</div>
+
 I chose this data visualization because I found the topic interesting. An area’s vacancy rate can be an important indicator of the overall health and character of its housing market. While the article was well written and provided valuable insights, I felt the chart didn’t achieve the same impact. I believe there is a room for improvement in how the visualization could better support the article. That’s why I selected it, and the article also provided a complete dataset for me to use in the redesign.
 
 ## Step two: the critique
@@ -62,7 +68,7 @@ I learned that the title plays a key role in immediately conveying the story, so
   var divElement = document.getElementById('vacancyViz');
   var vizElement = divElement.getElementsByTagName('object')[0];
   vizElement.style.width = '100%';
-  vizElement.style.height = (divElement.offsetWidth * 1.2) + 'px';
+  vizElement.style.height = (divElement.offsetWidth * 1) + 'px';
 
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
