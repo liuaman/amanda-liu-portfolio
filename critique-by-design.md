@@ -62,7 +62,7 @@ I learned that the title plays a key role in immediately conveying the story, so
   var divElement = document.getElementById('vacancyViz');
   var vizElement = divElement.getElementsByTagName('object')[0];
   vizElement.style.width = '100%';
-  vizElement.style.height = (divElement.offsetWidth * 1.3) + 'px';
+  vizElement.style.height = (divElement.offsetWidth * 1.2) + 'px';
 
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
