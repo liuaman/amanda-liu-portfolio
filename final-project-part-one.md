@@ -11,15 +11,14 @@ Retail return rates have nearly doubled in five years, creating massive hidden c
 As a reader, I want to understand how frequent returns affect costs and waste, so that I can make more mindful shopping decisions.
 I can do this by checking sizing guides or reducing impulsive purchases.
 
-Outline:
+Story telling:
 1. Present the growth of return rates.
 2. What’s Driving Returns? -> Focus on generational differences in return behaviors.
 3. Why It Matters & Call-to-action
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+[Retail growth sketch.pdf](https://github.com/user-attachments/files/22551489/Retail.growth.sketch.pdf)
 
-Text here...
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
