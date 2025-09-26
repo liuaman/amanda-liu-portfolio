@@ -1,17 +1,20 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
 Today’s customer journey includes an increasingly important landmark: Returns. According to the National Retail Federation and Happy Returns (a UPS company), 76% of consumers consider free returns a key factor in deciding where to shop. However, over the past five years, the rapid growth of returns has created significant challenges for the environment and logistics, while also imposing huge costs on the retail industry. I would like to explore how severe this problem is to raise awareness and explore return behavior across different generations.
 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+Retail return rates have nearly doubled in five years, creating massive hidden costs for businesses and the environment.
 
-Text here...
+As a reader, I want to understand how frequent returns affect costs and waste, so that I can make more mindful shopping decisions.
+I can do this by checking sizing guides or reducing impulsive purchases.
+
+Outline:
+1. Present the growth of return rates.
+2. What’s Driving Returns? -> Focus on generational differences in return behaviors.
+3. Why It Matters & Call-to-action
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
