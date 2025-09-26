@@ -19,29 +19,20 @@ Story telling:
 ## Initial sketches
 ![1758854504950-4472a830-9a27-4a26-875a-4eb28b3d12b5_1](https://github.com/user-attachments/assets/fd903e8b-c0c4-48ae-95a3-0ceda773cbcc)
 
-
+* Note: NRF’s 2023 study on retail returns used a different methodology to calculate the return rate that is not directly comparable to other years’ data.
 
 # The data
 NRF and Happy Returns 2024 Consumer Returns in the Retail Industry (Dec 5, 2024):
 https://nrf.com/research/2024-consumer-returns-retail-industry
 I used data on historical return rates and the cost of retail returns, as well as on abusive or exploitative consumer return behaviors across different generations.
 
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
-
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan to use Tableau to create my data visualization, but am open to Shorthand as well, I'm still exploring
 
 ## References
-_List any references you used here._
+https://nrf.com/research/2024-consumer-returns-retail-industry
+https://stockanalysis.com/stocks/tgt/revenue/
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+1. I used ChatGPT to help refine my wording.
+2. I asked ChatGPT to critique my visualization, and used its recommendation to add contextual information, such as noting that the cost of returns in 2024 equals 8.4 times Target’s annual revenue.
