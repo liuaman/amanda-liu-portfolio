@@ -17,7 +17,7 @@ Story telling:
 3. Why It Matters & Call-to-action
 
 ## Initial sketches
-![1758854504950-4472a830-9a27-4a26-875a-4eb28b3d12b5_1](https://github.com/user-attachments/assets/fd903e8b-c0c4-48ae-95a3-0ceda773cbcc)
+![IMG_5779](https://github.com/user-attachments/assets/2c1722a5-4eba-4610-b534-35bc64e70f2c)
 
 * Note: NRF’s 2023 study on retail returns used a different methodology to calculate the return rate that is not directly comparable to other years’ data.
 
