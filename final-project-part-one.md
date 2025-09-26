@@ -13,17 +13,19 @@ I can do this by checking sizing guides or reducing impulsive purchases.
 
 Story telling:
 1. Present the growth of return rates.
-2. What’s Driving Returns? -> Focus on generational differences in return behaviors.
+2. What’s Driving Returns? -> Focus on generational differences in return exploitive behaviors.
 3. Why It Matters & Call-to-action
 
 ## Initial sketches
-[Retail growth sketch.pdf](https://github.com/user-attachments/files/22551489/Retail.growth.sketch.pdf)
+![1758854504950-4472a830-9a27-4a26-875a-4eb28b3d12b5_1](https://github.com/user-attachments/assets/fd903e8b-c0c4-48ae-95a3-0ceda773cbcc)
+
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+NRF and Happy Returns 2024 Consumer Returns in the Retail Industry (Dec 5, 2024):
+https://nrf.com/research/2024-consumer-returns-retail-industry
+I used data on historical return rates and the cost of retail returns, as well as on abusive or exploitative consumer return behaviors across different generations.
 
-Text here...
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
