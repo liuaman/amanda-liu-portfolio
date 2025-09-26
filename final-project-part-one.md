@@ -27,11 +27,11 @@ https://nrf.com/research/2024-consumer-returns-retail-industry
 I used data on historical return rates and the cost of retail returns, as well as on abusive or exploitative consumer return behaviors across different generations.
 
 # Method and medium
-I plan to use Tableau to create my data visualization, but am open to Shorthand as well, I'm still exploring
+I plan to use Tableau for my data visualization but I’m open to Shorthand too as I continue exploring.
 
 ## References
-https://nrf.com/research/2024-consumer-returns-retail-industry
-https://stockanalysis.com/stocks/tgt/revenue/
+1. NRF and Happy Returns 2024 Consumer Returns in the Retail Industry: https://nrf.com/research/2024-consumer-returns-retail-industry
+2. Target's Revenue: https://stockanalysis.com/stocks/tgt/revenue/
 
 ## AI acknowledgements
 1. I used ChatGPT to help refine my wording.
