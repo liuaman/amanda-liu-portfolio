@@ -6,7 +6,8 @@
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-Text here...
+Today’s customer journey includes an increasingly important landmark: Returns. According to the National Retail Federation and Happy Returns (a UPS company), 76% of consumers consider free returns a key factor in deciding where to shop. However, over the past five years, the rapid growth of returns has created significant challenges for the environment and logistics, while also imposing huge costs on the retail industry. I would like to explore how severe this problem is to raise awareness and explore return behavior across different generations.
+
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
