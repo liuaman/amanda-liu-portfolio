@@ -61,7 +61,8 @@ Text here!
 Text here!
 
 ## References
-_List any references you used here._
+1. The Environmental Impact of Returning Online Products | CleanHub Blog: https://www.cleanhub.com/blog/ecommerce-returns-environmental-impact
+2. Optoro Report (2022,2024): https://4771362.fs1.hubspotusercontent-na1.net/hubfs/4771362/2022%20Impact%20Report/Optoro_2022%20Impact%20Report.pdf ; https://info.optoro.com/hubfs/Optoros%202024%20Returns%20Unwrapped%20Report.pdf
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
