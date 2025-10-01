@@ -19,7 +19,7 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
+| To understand if readers have concerns about missing data in 2023 |                  |
 |      |                  |
 |      |                  |
 
