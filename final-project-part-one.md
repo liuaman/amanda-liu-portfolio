@@ -12,9 +12,12 @@ As a reader, I want to understand how frequent returns affect costs and waste, s
 I can do this by checking sizing guides or reducing impulsive purchases.
 
 Story telling:
-1. Present the growth of return rates.
+1. Present the growth of return rates and costs.
 2. What’s Driving Returns? -> Focus on generational differences in return exploitive behaviors.
 3. Why It Matters & Call-to-action
+
+(Sep 30th update)
+I've slightly reframed my storyline based on feedback from classmates. I connected the growth of returns to environmental costs, since at first my story only highlighted the rising costs for retail companies. But as consumers, why should we care about this issue? To address that, I brought in data points such as carbon emissions and the amount of returns sent straight to landfills, which will be presented in part 2 assignment. Once I highlighted how the return journey creates significant environmental issues that often go unnoticed, it became the key to raise awareness.
 
 ## Initial sketches
 ![IMG_5779](https://github.com/user-attachments/assets/2c1722a5-4eba-4610-b534-35bc64e70f2c)
