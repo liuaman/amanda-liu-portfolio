@@ -23,11 +23,11 @@ Although I think everyone could be part of my target audience since this topic r
 ## Interview findings
 Through the interviews, visualizations sometimes add confusion if I don’t tell the story well. Also, suggestions are very subjective, and sometimes they conflict with each other, so you don’t need to take all of them.
 
-| Questions               | Student in Art Management program| Student in MIIPS program | Financial Analyst |
+| Questions               | Art Management Student | MIIPS Student | Financial Analyst |
 |-------------------------|--------------------------------|-------------|-------------|
-| Do you feel like it's distracting when seeing data missed at your first glance to the chart | Yes, suggested showing data every two year instead of continuous years so 2023 can be skipped    |   Yes, maybe explain it first when storytelling   |  Yes, maybe use an annotation to highlight it better  |
-| Do you have questions or difficulties when understanding the chart?  |  The heatmap one has a lot of information, so it's hard to get that I want to highlight GenZ, maybe can change it with a better tilte that go straight to the point (I already fixed)  |  For the first chart with dual Y axis, it's a bit difficult to know bar chart/line chart is for left or right  |   For the heatmap, maybe you can grey other generation so I can get you're talking mainly about GenZ     |
-| Do you find the annotation of comparing the return cost with Target's revenue helpful? |  Yes, I like it   |  Yes, but I suggest using a same color with the bar chart so that I know you're linking it to the return cost, not return rate   |  Yes, when the numbers get so large that they go beyond your perception, you become numb to them. With a comparison, you can feel just how staggering the number is.   |  
+| Do you feel it’s distracting when noticing missing data at your first glance at the chart? | Yes, I suggest showing data every two years instead of continuously, so 2023 can be skipped    |   Yes, maybe explain it first during storytelling   |  Yes, maybe use an annotation to highlight it better  |
+| Do you have any questions or difficulties when trying to understand the chart?  |  The heatmap has a lot of information, so it’s hard to see that you want to highlight Gen Z. Maybe it could have a clearer title that gets straight to the point (I already fixed this)  |  For the first chart with the dual Y-axis, it’s a bit difficult to tell which side the bar chart/line chart refers to  |   For the heatmap, you can gray out other generations so it’s clearer you’re mainly talking about Gen Z     |
+| Do you find the annotation comparing the return cost with Target’s revenue helpful? |  Yes, I like it   |  Yes, but I suggest using the same color as the bar chart so I know you’re linking it to the return cost, not the return rate   |  Yes, when the numbers get so large that they go beyond perception, I become numb to them. With a comparison, I can see just how staggering the number is   |  
 
 
 # Identified changes for Part III
