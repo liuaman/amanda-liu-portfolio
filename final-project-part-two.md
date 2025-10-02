@@ -38,10 +38,8 @@ Based on the feedback, main problems for Part2 includes the unenough visualizati
 | Too much text and feel a bit overwhelming | I'll improve it with stronger visualizations |
 | The concern of data missing in the first Chart |  I'll add an annotation instead of just putting it in the subtitle, and when storytelling, explain it first     |
 | Dual Axis and Annotation   |   I've fixed it with left Y Axis using same color as the bar chart(brown), right Y Axis same color with the line chart. (Red) So with the annotation, should go with brown.                                                                            |
-| Too much info on a single chart, feel lost and not sure where to focus on   |  I'll use mouse/hand gesture to help readers follow my explanation to the chart                                                                             |
-                                                                              |
-
-> I appreciate these feedabck, I looked my charts for too many times and got numb, they help me a lot on reflection!
+| Too much info on a single chart, feel lost and not sure where to focus on   |  I'll use mouse/hand gesture to help readers follow my explanation to the chart    |
+I appreciate these feedabck, I looked my charts for too many times and got numb, they help me a lot on reflection!
 
 ## References
 1. The Environmental Impact of Returning Online Products | CleanHub Blog: https://www.cleanhub.com/blog/ecommerce-returns-environmental-impact
