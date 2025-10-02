@@ -43,7 +43,7 @@ Based on the feedback, the main problems in Part2 include insufficient visualiza
 I appreciate all the feedback. After looking at my charts too many times, I had become numb to them, so the feedback helped me reflect a lot!
 
 ## References
-1. The Environmental Impact of Returning Online Products | CleanHub Blog: https://www.cleanhub.com/blog/ecommerce-returns-environmental-impact
+1. The Environmental Impact of Returning Online Products, CleanHub Blog: https://www.cleanhub.com/blog/ecommerce-returns-environmental-impact
 2. Optoro Report (2022,2024): https://4771362.fs1.hubspotusercontent-na1.net/hubfs/4771362/2022%20Impact%20Report/Optoro_2022%20Impact%20Report.pdf ; https://info.optoro.com/hubfs/Optoros%202024%20Returns%20Unwrapped%20Report.pdf
 3. NRF and Happy Returns 2024 Consumer Returns in the Retail Industry: https://nrf.com/research/2024-consumer-returns-retail-industry
 4. Target's Revenue: https://stockanalysis.com/stocks/tgt/revenue/
