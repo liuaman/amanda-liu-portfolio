@@ -31,15 +31,16 @@ Through the interviews, visualizations sometimes add confusion if I don’t tell
 
 
 # Identified changes for Part III
-Based on the feedback, main problems for Part2 includes the unenough visualization, they feel like text is still a bit too much on shorthand. Even without a compete data set, some simple pie chart or bar chart could reduce the heavt text. Others feedback includes improve the data chart with more reader-centric design.
+Based on the feedback, the main problems in Part2 include insufficient visualization and too much text on Shorthand. Even though I couldn't find a complete dataset, adding simple pie charts or bar charts could reduce the heavy text. Other feedback suggested improving the data charts with a more reader-centric design.
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Too much text and feel a bit overwhelming | I'll improve it with stronger visualizations |
-| The concern of data missing in the first Chart |  I'll add an annotation instead of just putting it in the subtitle, and when storytelling, explain it first     |
-| Dual Axis and Annotation   |   I've fixed it with left Y Axis using same color as the bar chart(brown), right Y Axis same color with the line chart. (Red) So with the annotation, should go with brown.                                                                            |
-| Too much info on a single chart, feel lost and not sure where to focus on   |  I'll use mouse/hand gesture to help readers follow my explanation to the chart    |
-I appreciate these feedabck, I looked my charts for too many times and got numb, they help me a lot on reflection!
+| Too much text and feel a bit overwhelming | I’ll improve it with stronger visualizations |
+| The concern of data missing in the first Chart |  I’ll add an annotation instead of just putting it in the subtitle, and when storytelling, I’ll explain it first    |
+| Dual Axis and Annotation   |   I’ve fixed it. The left Y-axis uses the same color as the bar chart (brown), and the right Y-axis uses the same color as the line chart (red). As for the annotation, it should be brown too   |
+| Too much info on a single chart, feel lost and not sure where to focus on   |  I’ll use mouse/hand gestures to help readers follow my explanation of the chart    |
+
+I appreciate all the feedback. After looking at my charts too many times, I had become numb to them, so the feedback helped me reflect a lot!
 
 ## References
 1. The Environmental Impact of Returning Online Products | CleanHub Blog: https://www.cleanhub.com/blog/ecommerce-returns-environmental-impact
@@ -48,6 +49,5 @@ I appreciate these feedabck, I looked my charts for too many times and got numb,
 4. Target's Revenue: https://stockanalysis.com/stocks/tgt/revenue/
 
 ## AI acknowledgements
-I used ChatGPT to help refine my wording.
-I asked Claude some Tableau questions to help build what I envisioned.
+I used ChatGPT to help refine my wording, and asked Claude some Tableau questions to help build what I envisioned.
 
