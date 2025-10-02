@@ -16,12 +16,12 @@ Although I think everyone could be part of my target audience since this topic r
 | Goal | Questions to Ask |
 |------|------------------|
 | To understand if my data charts are clear enough without too much explanation |  What questions came up?  |
-| To seek critique advice on my current chart design  | What worked? What didn't work?  |
-| To understand if my storyline is clear enough |  Do think the storytelling makes sense?       |
+| To get critique on my current chart design  | What worked? What didn't work?  |
+| To understand if my storyline is clear enough |  Do you think the storytelling makes sense?       |
 
 
 ## Interview findings
-Through interview, visulization sometimes add confusion if I don't tell the story well. Also, suggestions are really depending on people so you don't need to take it all. 
+Through the interviews, visualizations sometimes add confusion if I don’t tell the story well. Also, suggestions are very subjective, and sometimes they conflict with each other, so you don’t need to take all of them.
 
 | Questions               | Student in Art Management program| Student in MIIPS program | Financial Analyst |
 |-------------------------|--------------------------------|-------------|-------------|
