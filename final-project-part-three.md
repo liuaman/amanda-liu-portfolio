@@ -1,36 +1,29 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+https://carnegiemellon.shorthandstories.com/a828eaa9-8510-40de-8bfb-8f2781efecec/index.html
 
-Text here!
-
-# Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
+# Changes made since Part II & Final design decisions
+1. I made the chart larger for better readability and aligned the color scheme with the topic (brown for return boxes). The left Y-axis uses the same color as the bar chart (brown), and the right Y-axis matches the line chart (red). The annotation also changed to brown for consistency.
+2. I added an annotation to indicate that 2023 data is missing, instead of only mentioning it in the subtitle, so it’s more noticeable.
+3. I highlighted a few key statistics as visual callouts.
+4. I changed to a stronger CTA: “Buy what you need, not what you want.”
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
-
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
+My target audience is the general public, especially Gen Z consumers who care about sustainability. Based on feedback from my classmates, I added an environmental perspective to the project and reframed my storyline. Initially, my story focused on the rising costs for retail companies. But as consumers, why should we care about this issue? So I brought in data points such as carbon emissions and the amount of returned products that end up in landfills, connecting the growth of returns to their environmental impact.
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
+I used ChatGPT to help refine my wording.
+I used ChatGPT to assist with debugging when errors and challenges arose in Tableau.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+This project really helped me improve my Tableau skills. For example, I got the chance to explore dual-axis charts and troubleshoot bugs when I had difficulties building the visualizations I wanted. 
 
+Data-wise, I wish I could access data on how many returned items went straight to landfills each year. During interviews and presentations, I noticed that many people were surprised by this fact. Therefore, it would be interesting to explore the trend over time. However, I was only able to find data from 2022.
 
+Topic-wise, I think this project is meaningful, not only raising awareness for my classmates and friends, but also for myself. I realized that I’ve also taken part in some of these abusive behaviors, or buying impulsively and returning items later, especially during major shopping events such as Amazon Prime Day or Black Friday. Working on this project made me reflect on my own habits and better understand the hidden costs behind reverse logistics.
