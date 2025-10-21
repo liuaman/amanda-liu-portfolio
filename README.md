@@ -18,9 +18,3 @@ This is Amanda! I am a graduate student in the MIIPS program at CMU, and also a 
 1. Learn how to use data to support my design decisions.
 2. Create meaningful, clear, and professional charts/graphics to tell a story.
 3. Become more comfortable with data overall!
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
